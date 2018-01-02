@@ -6,5 +6,4 @@ This iteration of the course will utilize Jupyter Notebooks to facilitate
 anotations and observations alongside the code.
 
 My intention is to explore each section to a greater depth and to show
-experimentation with the code.
-
+experimentational and additional code examples.
